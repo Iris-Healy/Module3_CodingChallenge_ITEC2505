@@ -36,25 +36,25 @@ namespace Module3Challenge.Pages
             switch(dayOfWeek)
             {
                 case 1:
-                    DayMessage = "Today is monday come see the zebras";
+                    DayMessage = "Today is Sunday come see the zebras";
                     break;
                 case 2:
-                    DayMessage = "Today is tuesday our dolphins are swimming in the aquatic center";
+                    DayMessage = "Today is Monday our dolphins are swimming in the aquatic center";
                     break;
                 case 3:
-                    DayMessage = "Today is wednesday come check out the groundhogs";
+                    DayMessage = "Today is Tuesday come check out the groundhogs";
                     break;
                 case 4:
-                    DayMessage = "Today is thursday come see the pengins being fed at 2pm";
+                    DayMessage = "Today is Wednesday come see the pengins being fed at 2pm";
                     break;
                 case 5:
-                    DayMessage = "Today is friday the orcas are putting on a show at 4pm";
+                    DayMessage = "Today is Thursday the orcas are putting on a show at 4pm";
                     break;
                 case 6:
-                    DayMessage = "Today is saturday the monkeys are going bananas";
+                    DayMessage = "Today is Friday the monkeys are going bananas";
                     break;
                 case 7:
-                    DayMessage = "The lions are very tired and napping in the sun today";
+                    DayMessage = " Today is Saturday The lions are very tired and napping in the sun today";
                     break;
                 default:
                     DayMessage = "Welcome to the zoo! Enjoy your visit!";
